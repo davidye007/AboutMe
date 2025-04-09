@@ -1,7 +1,2 @@
----
-layout: default
-title: README
----
-
 # AboutMe
-David Ye's Web Page
+David Ye is super duper cool!
