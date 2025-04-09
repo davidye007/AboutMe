@@ -21,6 +21,7 @@ I'm David! Happy you're here!
 ## Academics
 
 I am majoring in Applied Computational Mathematical Sciences (Data Science & Statistics) at the University of Washington. I will be graduating this Sping (2025)!
+
 ![UW Seal](assets/UW_Seal.svg.png "UW Seal")
 
 ## Hobbies
