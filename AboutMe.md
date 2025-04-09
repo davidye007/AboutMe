@@ -1,3 +1,8 @@
+---
+layout: default
+title: AboutMe
+---
+
 # About Me
 
 Hola, I'm David!! On this page, you can learn a little about me!
