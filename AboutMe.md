@@ -1,6 +1,6 @@
 # About Me
 
-Hola, I'm David! On this page, you can learn a little about me!
+Hola, I'm David!! On this page, you can learn a little about me!
 
 ![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
 
