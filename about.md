@@ -5,9 +5,9 @@ title: AboutMe
 
 # About Me
 
-Hola, I'm David!! On this page, you can learn a little about me!
+I'm David! Happy you're here!
 
-![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
+![David At Duthie](assets/me.png "David At Duthie")
 
 
 ## Professional Experience
@@ -16,20 +16,24 @@ Hola, I'm David!! On this page, you can learn a little about me!
 - Lead Developer @ AI Institute in Dynamic Systems (10/2022 - Present)
 - Project Manager/Lead Developer @ Husky Coding Project (01/2024 - 11/2024)
 
+![Dynamics AI Logo](assets/dynamicsai_logo.jpg "Dynamics AI Logo") ![Outdoor R&D Logo](assets/ord_logo.jpg "Outdoor R&D Logo") ![HCP Logo](assets/hcp_logo.jpg "HCP Logo")
+
 ## Academics
 
-I am majoring in Applied Computational Mathematical Sciences. I am currently enrolled in **ENGL396: Software Documentation**. I will be graduating this Sping (2025)!
-
+I am majoring in Applied Computational Mathematical Sciences (Data Science & Statistics) at the University of Washington. I will be graduating this Sping (2025)!
+![UW Seal](assets/UW_Seal.svg.png "UW Seal")
 
 ## Hobbies
-
-- Hiking
-- Frisbee
-- Running
-- Biking
-- Juggling
-- Climbing
+- Frisbee &#129359;
+- Hiking &#9968;
+- Running &#127939;
+- Biking &#128690;
+- Juggling &#129358;
+- Climbing &#129704;
+- Calisthenics &#128170;
 
 ## Words of Wisdom
 
-> "The only cooler than throwing a frisbee during the day, is throwing a glow-in-the-dark frisbee during the night."
+> Q: "What's cooler than throwing a frisbee?
+
+> A: "Throwing a glow-in-the-dark frisbee at night." &#127769;
